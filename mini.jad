@@ -1,0 +1,20 @@
+MIDlet-Version: 4.5
+MIDlet-1: Opera Mini 4, /i.png, Browser
+MIDlet-Data-Size: 25600
+MIDlet-Description: Opera Mini
+MIDlet-Icon: /i.png
+MIDlet-Info-URL: http://mini.opera.com/
+MIDlet-Install-Notify: http://m.opera.com/n/33867Acuemoth_es-419?vid=0x5c02af024bda55e2
+MIDlet-Jar-Size: 144299
+MIDlet-Jar-URL: http://m.opera.com/dl/bX4Fhyr*zny6AK2GlU8ARS5rDw8CZGVmYXVsdC5wbmc=/mini.jar?vid=0x5c02af024bda55e2
+MIDlet-Name: Opera Mini 4
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MIDlet-Permissions-Opt: javax.microedition.io.Connector.sms, javax.wireless.messaging.sms.send, javax.microedition.io.Connector.socket, javax.microedition.io.Connector.file.write, javax.microedition.io.Connector.file.read, javax.microedition.pim.ContactList.read
+MIDlet-Vendor: Opera Software ASA
+Content-Folder: Applications
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
+Nokia-MIDlet-On-Screen-Keypad: no
+OM-Install-Referrer: utmcsr=google.com|utmccn=(referral)|utmcmd=referral|utmcct=/|vid=0x5c02af024bda55e2
+Operette-UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
