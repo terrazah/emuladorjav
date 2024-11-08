@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Opera Mini 4.5 Emulado</title>
+</head>
+<body>
+    <h1>Emulador de Opera Mini 4.5</h1>
+    <div id="emulator" style="width: 240px; height: 320px; border: 1px solid #000;"></div>
+    
+    <!-- Incluye js2me -->
+    <script src="js2me.js"></script>
+    <script>
+        // URL del archivo JAR de Opera Mini subido a GitHub
+        const jarUrl = "https://github.com/terrazah/emuladorjav.git";
+        
+        // Configura el emulador para que cargue Opera Mini 4.5
+        js2me.launchEmulator(jarUrl, document.getElementById('emulator'), {
+            width: 240, // Ancho en píxeles
+            height: 320 // Alto en píxeles
+        });
+    </script>
+</body>
+</html>
